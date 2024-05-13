@@ -1,0 +1,44 @@
+
+.navbar{
+     /*border-bottom: 5px solid rgb(139, 4, 4); */
+     box-shadow: 0 2px 7px rgb(8, 8, 8);
+}
+
+header{
+     min-height: 100vh;
+     background: url(../images/pexels.jpg);
+     background-position: center;
+     background-size: cover ;
+     
+
+
+
+
+}
+
+
+ 
+
+.header-text{
+     position: absolute;
+     top: 50%; left: 20%;
+     transform: translate(-50% , -50%);
+
+}
+#about h5{
+     letter-spacing: 5px;
+ }
+ #about img{
+     min-height: 100%;
+ }
+ 
+ /* styles.css */
+#contact {
+     background-color: black;
+     color: rgb(13, 167, 13);
+     padding: 20px;
+ }
+ 
+
+
+
